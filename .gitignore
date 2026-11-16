@@ -1,0 +1,13 @@
+/*
+!.gitignore
+!README.md
+!INSTALL.md
+!PRIVACY.md
+!KNOWN_ISSUES.md
+!RELEASE_NOTES.md
+!ThirdPartyNotices.txt
+!/.github/
+/.github/*
+!/.github/ISSUE_TEMPLATE/
+/.github/ISSUE_TEMPLATE/*
+!/.github/ISSUE_TEMPLATE/bug-report.yml
