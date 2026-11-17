@@ -11,3 +11,12 @@
 !/.github/ISSUE_TEMPLATE/
 /.github/ISSUE_TEMPLATE/*
 !/.github/ISSUE_TEMPLATE/bug-report.yml
+!/release-notes/
+/release-notes/*
+!/release-notes/v1.2.2-beta.1/
+/release-notes/v1.2.2-beta.1/*
+!/release-notes/v1.2.2-beta.1/INSTALL.md
+!/release-notes/v1.2.2-beta.1/RELEASE_NOTES.md
+!/release-notes/v1.2.2-beta.1/KNOWN_ISSUES.md
+!/release-notes/v1.2.2-beta.1/README.md
+!/release-notes/v1.2.2-beta.1/ThirdPartyNotices.txt
